@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align='center'>
         <a href="https://nodejs.org/">
-            <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png)" alt="react" width="60"/>
+            <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="react" width="60"/>
         </a>
     </td>
     <td align='center'>
