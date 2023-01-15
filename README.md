@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
     <div align=left>
     <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=chandra-pro&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
     <img width=48.5% src="http://github-readme-streak-stats.herokuapp.com?user=chandra-pro&theme=react&border=61DAFB&fire=DDB80F"/>
-    <img width=48.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnadra-pro&langs_count=12&theme=react&layout=compact" />
+<!--     <img width=48.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=chnadra-pro&langs_count=12&theme=react&layout=compact" /> -->
     </div>
 </div>
 
